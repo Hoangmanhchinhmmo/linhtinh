@@ -17,15 +17,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/TranCuongQ4/TuTaoX-UI/master/m
 
 **Hãy làm theo chú ý khi cài xong X-UI nhé không thôi bạn sẽ mất VPS . Cài xong sẽ thấy lời nhắn .**
 
-**Hãy vào nhóm miễn phí chúng tôi để nhận Server kết nối 4G nhé**
 
-**Link Nhóm :** 
-``` 
-https://zalo.me/g/nlsmbo197 
-```
-**Bản Cập Nhật 2021**
-
-**Trần Cường Việt Hoá**
 
 ```Nguồn vaxilu```
 
